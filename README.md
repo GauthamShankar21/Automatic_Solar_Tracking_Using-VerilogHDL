@@ -1,0 +1,2 @@
+# Automatic_Solar_Tracking_Using-VerilogHDL
+According the earth’s rotation axis, Erath rotates 15 degree in its axis per hour. By this idea of rotation per hour the motor is made to rotate 15 degrees every hour. With this rotation the solar panel rotates along with the stepper motor which almost maintains perpendicular profile to the rays from sun. By this maintenance of perpendicular profile less amount of solar energy gets lost and the system becomes more efficient.
